@@ -2,10 +2,14 @@
 
 A custom inspector for Godot that helps editing bit masks
 
+|                           |                          |
+|---------------------------|--------------------------|
+| ![](.github/sample2.PNG)  | ![](.github/sample1.PNG) |
+
 - [gd-flags-inspector](#gd-flags-inspector)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Configuration](#configuration)
+	- [Installation](#installation)
+	- [Usage](#usage)
+	- [Configuration](#configuration)
 
 ## Installation
 
