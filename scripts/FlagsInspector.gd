@@ -9,6 +9,6 @@ func _parse_property(object, type, name, hint_type, hint_string, usage_flags, wi
 
 	var values = hint_string.split(",", false)
 
-	add_property_editor(name, FlagsProperty.new(values))
+	add_property_editor(name, load(get_script().resource_path.get_base_dir() + "/FlagsProperty.gd").new(values))
 
 	return true
